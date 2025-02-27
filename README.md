@@ -1,4 +1,4 @@
-#SpyLog AI - Real-Time Behavior & Emotion Tracker
+# SpyLog AI - Real-Time Behavior & Emotion Tracker
 
 SpyLog AI is a real-time behavior and emotion tracking tool that uses AI to analyze facial expressions, gestures, and voice. Ideal for psychology research, education, or integration into smart interactive systems.
 
